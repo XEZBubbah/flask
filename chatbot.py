@@ -29,6 +29,7 @@ training_data_trivia = open('training_data/trivia.txt', encoding="utf8").read().
 training_data_trivia = open('training_data/psico2.txt', encoding="utf8").read().splitlines()
 training_data_trivia = open('training_data/psico3.txt', encoding="utf8").read().splitlines()
 
+
 #Entrenamiento
 training_data = training_data_personal + training_data_bot + training_data_emociones + training_data_saludos + training_data_trivia
 #####
