@@ -29,24 +29,30 @@ No hay nada complicado no te preocupes puedes abrirte conmigo para eso estoy
 Ella dijo que nos diéramos un tiempo 
 Pero ¿qué fue lo que llevó a que ella dijera eso?
 Las cosas entre nosotros no estaban muy bien 
+<<<<<<< HEAD
 ¿me podrías contar más detalles? 
 Es que ella pues conoció a un amigo y las cosas empezaron a complicar después de eso
 Y tú ya sabías que eso estaba ocurriendo desde hace tiempo 
+=======
+me podrías contar más detalles 
+Es que ella conoció a un amigo y las cosas empezaron a complicar después de eso
+Y tú ya sabías que eso estaba ocurriendo?  
+>>>>>>> parent of 0d3b9de... Revert "Update psico3.txt"
 La verdad no ¿Qué puedo hacer?  
 Lo primero que deberías hacer es respetar el tiempo que ella te pidió o qué tú le pediste simplemente analizar y ver si de verdad la amas, si de verdad es lo que tú quieres para tu vida y si es así y si ella también siente lo mismo entonces no habrá problema, podrán superar esto juntos 
-Pero qué hago si ella se va con otro
+Pero qué hago si ella se va con otro?
 Si ella se va con otro significa que no te ama entonces no hay necesidad de seguir sufriendo, Tú eres joven y tienes mucho qué vivir no te estanques y sigue tu camino
 Pero es que el único camino que yo veo es al lado de ella 
-Pero como tú dijiste Ella se fue Se puede ir con otro Entonces tú dónde quedarías simplemente estarías Sufriendo y ese no es el punto El amor es un compromiso de relación mutua 
+Pero como tú dijiste Ella se fue Se puede ir con otro, entonces tú dónde quedarías simplemente estarías Sufriendo y ese no es el punto. El amor es un compromiso de relación mutua 
 Pero es que la amo tanto 
-Pero es amor que está sintiendo te está destruyendo no debes aplicarte a ella si la amas tanto y ella decidió irse con otro debes dejarla ir y ser feliz 
+Pero es amor que está sintiendo te está destruyendo, no debes aplicarte a ella si la amas tanto y ella decidió irse con otro debes dejarla ir y ser feliz 
 Qué pasa si nadie más me llega me vuelve a amar 
 No necesitas que te amé alguien más para ser feliz acuérdate que existe el amor mutuo y antes de amar a alguien debes amarte a ti mismo 
-Cómo puedo amarme a mí mismo 
+Cómo puedo amarme a mí mismo?
 Debes buscar en tu interior y captar esos pequeños detalles que te hacen ser quien eres en decir diferente a los demás sólo en ellos podrás encontrar aquello que te hace feliz y eso te podrá llevar a amarte a ti mismo a valorarte por quien eres 
 Pero es que yo no valgo nada
 Eso es lo que tú crees Pero en realidad cada persona vale más que mil diamantes por eso estás aquí porque valoras tu vida y quiere seguir con ella pero no sabes cómo 
-De qué forma puedo seguir con mi vida ella a me llegue a dejar 
+De qué forma puedo seguir con mi vida si ella me abandona? 
 Recuerda que tienes personas amigos y familia que te quieren tu mundo no gira en torno a ella porque tú le importas a muchas más personas 
 Pero aún así me siento solo 
 Es normal sentirse solo de vez en cuando, todos pasamos por ello y no tiene por qué ser algo malo, intenta pasar más tiempo con las personas que te aprecian y verás como llenarás ese vacío
