@@ -29,17 +29,15 @@ No hay nada complicado no te preocupes puedes abrirte conmigo para eso estoy
 Ella dijo que nos diéramos un tiempo 
 Pero ¿qué fue lo que llevó a que ella dijera eso?
 Las cosas entre nosotros no estaban muy bien 
-<<<<<<< HEAD
-<<<<<<< HEAD
 ¿me podrías contar más detalles? 
 Es que ella pues conoció a un amigo y las cosas empezaron a complicar después de eso
 Y tú ya sabías que eso estaba ocurriendo desde hace tiempo 
-=======
 me podrías contar más detalles 
 Es que ella conoció a un amigo y las cosas empezaron a complicar después de eso
 Y tú ya sabías que eso estaba ocurriendo?  
->>>>>>> parent of 0d3b9de... Revert "Update psico3.txt"
-=======
+me podrías contar más detalles 
+Es que ella conoció a un amigo y las cosas empezaron a complicar después de eso
+Y tú ya sabías que eso estaba ocurriendo?  
 me podrías contar más detalles 
 Es que ella conoció a un amigo y las cosas empezaron a complicar después de eso
 Y tú ya sabías que eso estaba ocurriendo?  
