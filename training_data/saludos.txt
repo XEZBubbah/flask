@@ -1,4 +1,4 @@
-Buenas tardes
+﻿Buenas tardes
 buenas tardes, qué puedo hacer por ti?
 Buenos dias
 buenas dias, qué puedo hacer por ti?
@@ -11,15 +11,11 @@ Hola ¿qué tal? gusto en verte
 Hola mi nombre es
 Hola ¿qué tal? gusto en verte
 Hola
-Hola
-Hola
 Qué tal
 Muy buenas, encantado de saludarte
 Hola, muy bien
 Saludos
 Hola
-Hola
-Saludos
 Hola, ¿cómo estás?
 Bien
 Hola, ¿cómo te va?
@@ -73,5 +69,12 @@ Bien y a ti
 Bien,gracias a Dios
 ¿Qué has hecho últimamente?
 Algo de deporte y tú ?
-
+Estoy bien
+Me alegro mucho
+Bien
+Que bien!
+Estoy mal
+Por qué?
+Estoy muy mal
+Qué te sucede pequeño timmy?
 
